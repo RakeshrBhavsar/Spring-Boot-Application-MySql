@@ -16,10 +16,11 @@ Step 5: Start the Application and MySQL Database.
 	
 ```
 Features: 
-It creates a REST endpoint by creating a Spring MVC controller. 
-Create a Repository interface using Spring Data JPA. 
-Perform basic CRUD operations directly on the MySQL database using the methods we created.
-Return a JSON payload from REST API endpoint by returning objects from Spring MVC controller method.
+1) It creates a REST endpoint by creating a Spring MVC controller. 
+2) Create a Repository interface using Spring Data JPA. 
+3) Perform basic CRUD operations directly on the MySQL database using the methods we created.
+4) Return a JSON payload from REST API endpoint by returning objects from Spring MVC controller method.
+
 ```
 
 
